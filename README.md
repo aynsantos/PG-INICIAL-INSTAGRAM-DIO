@@ -7,3 +7,9 @@ Recriando a página inicial do Instagram.
 ## LinkedIn.
 
 * [LinkedIn](https://www.linkedin.com/in/allyson-santos-104a44237/)
+
+---
+
+<h1 align="center">
+   <img alt="Readme" title="Readme" src="./img/replica-pg-instagram.jpeg">
+</h1>
